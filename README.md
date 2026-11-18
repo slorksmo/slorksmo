@@ -1,21 +1,30 @@
-<div align="center">
+<a href="https://temoo.dev/en"><img src="https://raw.githubusercontent.com/slorksmo/slorksmo/main/temoo-banner.svg" width="1120" alt="TEMOO · Mohamed Maher · Web Designer and Developer"></a>
 
-# TEMOO · Mohamed Maher | محمد ماهر
+I design and build websites, web apps, and interactive 3D experiences, from the first sketch to launch. My work spans interface design, front-end development, and deployment, with particular care for Arabic and right-to-left interfaces.
 
-**Web Designer & Developer**
+<p dir="rtl">أنا محمد ماهر، مصمّم ومطوّر ويب. أصمّم وأبني مواقع وتطبيقات وتجارب ثلاثية الأبعاد، من الفكرة لحد الإطلاق.</p>
 
-I design and build websites, web apps, and interactive experiences, from the first sketch to launch.
+**[Explore my portfolio ↗](https://temoo.dev/en)**
 
-أصمّم وأطوّر مواقع وتطبيقات ويب وتجارب تفاعلية، من الفكرة إلى الإطلاق.
+## Featured project · Human Atlas
 
-[![Portfolio · temoo.dev](https://img.shields.io/badge/PORTFOLIO-temoo.dev-8B5CF6?style=for-the-badge&labelColor=171923)](https://temoo.dev/en)
-[![Human Atlas · Live demo](https://img.shields.io/badge/HUMAN_ATLAS-live_demo-14B8A6?style=for-the-badge&labelColor=171923)](https://atlas.taim.best/)
+<a href="https://atlas.taim.best/"><img align="right" width="230" src="https://raw.githubusercontent.com/slorksmo/Human-Atlas/main/docs/male-reference.png" alt="Human Atlas 3D viewer showing the skeleton, muscles, and blood vessels"></a>
 
-</div>
+An interactive anatomy explorer built with **React and Three.js**. Select individual structures, toggle anatomical systems, or pull a model apart to see how the pieces fit together.
 
-## Selected work
+- **3,400+ selectable structures** across two reference bodies
+- **English and Arabic** with right-to-left layouts and bilingual search
+- **Browser-based 3D** with GPU-driven visibility and selection
 
-- **Human Atlas** · A bilingual 3D anatomy explorer for the browser with more than 3,400 selectable structures and an Arabic interface with right-to-left support. [Source](https://github.com/slorksmo/Human-Atlas)
-- **[TemoQR](https://temoqr.com/)** · A QR code project from the TEMOO portfolio.
-- **[Timo Note](https://note.temoo.dev/)** · A web app for taking notes.
-- **[mrmo-yt](https://github.com/slorksmo/mrmo-yt)** · A version-controlled homelab deployment stack built with Docker Compose and managed through Portainer.
+**[Launch the atlas ↗](https://atlas.taim.best/)** · [Source code](https://github.com/slorksmo/Human-Atlas) · [Anatomy data credits](https://github.com/slorksmo/Human-Atlas/blob/main/public/ATTRIBUTION.md)
+
+<br clear="all">
+
+## More selected work
+
+| Project | What it does |
+| :-- | :-- |
+| **[TemoQR ↗](https://temoqr.com/)** | Web tools for creating QR codes. |
+| **[Timo Note ↗](https://note.temoo.dev/)** | A browser-based workspace for writing notes. |
+| **[Easy POS Arabia](https://github.com/slorksmo/easy-pos-arabia)** | A self-hosted, offline-first point-of-sale app for Arabic-speaking small businesses. |
+| **[mrmo-yt](https://github.com/slorksmo/mrmo-yt)** | A version-controlled homelab deployment stack using Docker Compose and Portainer. |
