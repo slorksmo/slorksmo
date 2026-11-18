@@ -27,4 +27,3 @@ An interactive anatomy explorer built with **React and Three.js**. Select indivi
 | **[TemoQR ↗](https://temoqr.com/)** | Web tools for creating QR codes. |
 | **[Timo Note ↗](https://note.temoo.dev/)** | A browser-based workspace for writing notes. |
 | **[Easy POS Arabia](https://github.com/slorksmo/easy-pos-arabia)** | A self-hosted, offline-first point-of-sale app for Arabic-speaking small businesses. |
-| **[mrmo-yt](https://github.com/slorksmo/mrmo-yt)** | A version-controlled homelab deployment stack using Docker Compose and Portainer. |
