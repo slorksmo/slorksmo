@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="288" viewBox="0 0 1120 288" role="img" aria-labelledby="title">
+  <title id="title">TEMOO — Mohamed Maher, Web Designer &amp; Developer</title>
+  <defs>
+    <linearGradient id="accent" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#32e2c2"/></linearGradient>
+    <radialGradient id="light" cx="80%" cy="50%" r="62%"><stop stop-color="#282040"/><stop offset="1" stop-color="#10121a"/></radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a78bfa" stroke-opacity=".12"/></pattern>
+    <clipPath id="frame"><rect width="1120" height="288" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1120" height="288" fill="url(#light)"/>
+    <rect x="630" width="490" height="288" fill="url(#grid)"/>
+    <path d="M0 2H1120" stroke="url(#accent)" stroke-width="4"/>
+    <g fill="none" transform="translate(875 144)">
+      <circle r="102" stroke="#a78bfa" stroke-opacity=".32"/><circle r="75" stroke="#32e2c2" stroke-opacity=".19"/>
+      <ellipse rx="171" ry="58" transform="rotate(-26)" stroke="url(#accent)" stroke-opacity=".78"/>
+      <ellipse rx="171" ry="58" transform="rotate(26)" stroke="url(#accent)" stroke-opacity=".4"/>
+      <circle cx="141" cy="-69" r="5" fill="#32e2c2"/><circle cx="-132" cy="-66" r="4" fill="#a78bfa"/>
+      <path d="M-33 -30H33L25 -13H7L-4 31H-25L-14 -13H-25Z" fill="url(#accent)"/>
+    </g>
+    <text x="58" y="78" fill="#a78bfa" font-family="monospace" font-size="18" letter-spacing="7">TEMOO</text>
+    <text x="54" y="154" fill="#f8fafc" font-family="Arial, sans-serif" font-size="71" font-weight="700" letter-spacing="-3">Mohamed Maher</text>
+    <text x="58" y="205" fill="#cad0e0" font-family="Arial, sans-serif" font-size="28">Web Designer &amp; Developer</text>
+    <path d="M58 239h56" stroke="#32e2c2" stroke-width="3"/>
+  </g>
+</svg>
